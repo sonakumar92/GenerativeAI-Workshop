@@ -1,0 +1,9 @@
+Product,Region,SalesAmount,Quarter,Year
+Laptop,North,1200,Q1,2025
+Smartphone,North,800,Q1,2025
+Tablet,North,400,Q1,2025
+Laptop,South,1500,Q2,2025
+Smartphone,South,900,Q2,2025
+Tablet,South,500,Q2,2025
+Laptop,East,1300,Q3,2025
+Smartphone,East,850,Q3,2025

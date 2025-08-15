@@ -1,7 +1,8 @@
 🧭 Generative AI Roadmap
 
-Target: 160h —> 10h Per Week —> 16 Weeks — > 4 Months
+Target: 12-15h Per Week  — > 5 Months
 Stared From: 1 Aug 2025
+Completion: 31 Dec 2025
 
 🔰 1: Foundations: Python
 🎯 Objective: Build a strong Python programming base.
@@ -19,7 +20,8 @@ Libraries: NumPy, Pandas, Polars, Matplotlib + Seaborn, Faker, Flask, Django
 * Jupyter Notebook
 📚 Resources:
 
-Learning Python •	3h 41m - In-Progress
+Part 1:
+Learning Python •	3h 41m - DONE
 https://www.linkedin.com/learning/learning-python-25309312/learning-python?contextUrn=urn%3Ali%3AlearningCollection%3A7353484926773567491&u=2141490
 Practice:https://github.com/LinkedInLearning/learning-python-3980343
 
@@ -42,25 +44,16 @@ Practice: https://github.com/LinkedInLearning/advanced-python-3912165
 Advanced Python: Working With Data •	2h 5m - DONE
 https://www.linkedin.com/learning/advanced-python-working-with-data/python-and-data-made-for-each-other?contextUrn=urn%3Ali%3AlearningCollection%3A7353484926773567491&u=2141490
 Practice: https://github.com/LinkedInLearning/advanced-python-working-with-data-4312001
-Advanced Python: Working with Databases 	•	2h 6m 
-https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/using-databases-to-level-up-your-python-applications?u=2141490
 
-Advanced Python: Practical Database Examples •	1h 48m 
-https://www.linkedin.com/learning/advanced-python-practical-database-examples/use-databases-to-level-up-your-python-applications?contextUrn=urn%3Ali%3AlearningCollection%3A7353484926773567491&u=2141490
-Practice:
-
-Programming Foundations: Data Structures (2023)  •	2h 49m 
+Programming Foundations: Data Structures (2023)  •	2h 49m - DONE
 https://www.linkedin.com/learning/programming-foundations-data-structures-2023/working-with-data-structures?contextUrn=urn%3Ali%3AlearningCollection%3A7353484926773567491&resume=false&u=2141490
 Practice:
 
-Python Data Structures and Algorithms •	2h 19m
-https://www.linkedin.com/learning/python-data-structures-and-algorithms/python-data-structures-and-algorithms-in-action?contextUrn=urn%3Ali%3AlearningCollection%3A7353484926773567491&resume=false&u=2141490
-Practice:
-
-Unit Testing in Python 	•	1h 31m 
+Unit Testing in Python 	•	1h 31m  - In-Progress
 https://www.linkedin.com/learning/unit-testing-in-python/python-unit-testing-with-pytest?u=2141490
 Practice:
 
+Part 2:
 Advanced Python: Top Tools for Data Science and Engineering •	2h 5m 
 https://www.linkedin.com/learning/advanced-python-top-tools-for-data-science-and-engineering/the-right-tool-for-the-job?contextUrn=urn%3Ali%3AlearningCollection%3A7353484926773567491&u=2141490
 Objectives: Get an introduction to pandas, data analysis, data manipulation, Python Polars, Matplotlib, APIs, and more.
@@ -81,6 +74,11 @@ Data Visualization with Matplotlib and Seaborn 	•	7h 26m
 https://www.linkedin.com/learning/data-visualization-with-matplotlib-and-seaborn/course-structure-outline?u=2141490
 Practice:
 
+Part 3:
+Advanced Python: Working with Databases 	•	2h 6m - DONE
+https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/using-databases-to-level-up-your-python-applications?u=2141490
+Practice: https://github.com/LinkedInLearning/advanced-python-working-with-databases-4365479
+
 Flask Essential Training 	•	2h 2m 
 https://www.linkedin.com/learning/flask-essential-training-24681038/build-a-full-stack-app-in-python-with-flask?u=2141490
 Practice:
@@ -89,7 +87,11 @@ Django Essential Training 	•	2h 39m
 https://www.linkedin.com/learning/django-essential-training-25094632/what-is-django?u=2141490
 Practice:
 
-Total Hours: 30h
+Advanced Python: Practical Database Examples •	1h 48m - In-Progress
+https://www.linkedin.com/learning/advanced-python-practical-database-examples/use-databases-to-level-up-your-python-applications?contextUrn=urn%3Ali%3AlearningCollection%3A7353484926773567491&u=2141490
+Practice:
+
+Total Hours: 60h
 Practice: 15h
 
 📊 2: Math & Machine Learning
