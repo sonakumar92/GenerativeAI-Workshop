@@ -7,7 +7,7 @@ Completion: 31 Dec 2025
 🔰 1: Foundations: Python
 🎯 Objective: Build a strong Python programming base.
 ✅ Topics:
-* Python basics, OOP, data structures, Databases
+* Python basics, Functions, OOP, Data structures & Algorithm, Databases
 Libraries: NumPy, Pandas, Polars, Matplotlib + Seaborn, Faker, Flask, Django
 * NumPy – fast math operations, arrays, matrix manipulations.
 * Pandas – cleaning, transforming, and analyzing tabular data.
@@ -35,7 +35,7 @@ Practice: https://github.com/LinkedInLearning/advanced-python-language-features-
 
 Python Essential Libraries •	2h 15m - DONE
 https://www.linkedin.com/learning/python-essential-libraries/power-up-your-python-with-libraries?u=2141490
-Practice: 
+Practice:  https://www.linkedin.com/ambry/?x-li-ambry-ep=AQLvWnc29j4gsQAAAZivHPAe_YJhBC70kzj-2MPWMyHfhwFWBIexzDISoKrzcFxsYyUHWypFMhmfKbfxsFfYhH7x_HUk6qaWRsO7bFCaUH0n7dK9Kc55xGimOJpQWdshnHajkOnAqAaKqK_xOndcF8Jr6p8Z__prRW2UxQ-AumdnxoBB5fFxQrvU_aO3GQYwe-4tDxs5NkBEpjydEeXOE6d9BJgLFjYmGsf8Z6qjAdj9qHYcPJEldcWMfqGmv9QV77p-EjlWLYbYqm6IsxSjmbJeDPvdgAQ9HRtfH-zS6wGnx_5LvlANtX9p9OJWT0pw5CcFcJrLAN09rV9nyIyfo74nx8rZxPN03YEXv3MU8ZO2DOV9iitwiy_FR4lr8hhaSRY4YQGQUAizqcDVabianaV5Yvl5GwW9ggyADh5LaN8jw3oXBMX5guBNU8uUBkcJ99rJOhYgpE3i4Gg3QGKWgISC_ggPm6VfiTXbsoEizAWNigKhUu_Xvw7mmeyBZSuTO0ur8Qs5oGNQldydO1txpVIwKSGHZFOi78Rt-E2ls6ggR0Ys9teM2K0tnyxUFKqXDlPh_cvZSVrj0XX5QNkSbxlM53pxuWYMT1Q
 
 Advanced Python 	•	2h 50m - DONE
 https://www.linkedin.com/learning-login/share?account=2141490&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fadvanced-python-23931756%3Ftrk%3Dshare_ent_url%26shareId%3D%252BHyCGUpfSzqIXkOFLZneSA%253D%253D
@@ -47,32 +47,25 @@ Practice: https://github.com/LinkedInLearning/advanced-python-working-with-data-
 
 Programming Foundations: Data Structures (2023)  •	2h 49m - DONE
 https://www.linkedin.com/learning/programming-foundations-data-structures-2023/working-with-data-structures?contextUrn=urn%3Ali%3AlearningCollection%3A7353484926773567491&resume=false&u=2141490
-Practice:
+Practice: https://github.com/LinkedInLearning/programming-foundations-data-structures-4410875
 
-Unit Testing in Python 	•	1h 31m  - In-Progress
+Programming Foundations: Algorithms 	•	2h 45m  - In-Progress
+https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/algorithms-power-the-world?resume=false&u=2141490
+Practice: https://github.com/LinkedInLearning/programming-foundations-algorithms-4507286
+
+Introducing Jupyter 	•	53m - In-Progress
+https://www.linkedin.com/learning/introducing-jupyter/present-data-like-a-pro-with-jupyter?u=2141490
+Practice: https://www.linkedin.com/ambry/?x-li-ambry-ep=AQLie7rmppoS4QAAAZivIDPWPbFR-d-1Q32bP1xr1mAgxS9hliPl7WM1S19YNXv8Y7Ah7mvGABFtDQOMuixrQrtHkjBo5ecPSnh35CTit39AVYYNQPfRUio2iZqP8m9wGwgxwXRtUGsJdeCOS0EzGIVJHgt1oOUvhtJXF23nON0JuMr1_nVHzfc0Ufa7yeRy-BbMTM3GlmUaj9Y0woZGeszXoXQTOgIjVY8UXtBqqito-zdPPB5g0tCL4unGLVE2JN9KoP47blgUHh_6nC1E6YdprOyOhEocnGXWxCB1lGNlzEstyd5Eb8LRozzTMwJm58J2viyfbpzbP1lJZ4ECwBJOmhDRcA5oH4ljee70WEd4FT6qC71pyMFNEz8I1Eht45iRPGCfQ9ugrmE1BGNQru4RtsNNOAKYlz52qMdFwKc_FuhoZn7nLmP4r5cr_xZXbxW0ShgPOKUmeDC5R_6LTOdqBxKHSU-u8mW8GP4p5YO-VjVgimrDSZzgRtkqtcfeDy5aOtiuK9HYcMnPVOd45LclZ6UAMfEOyh99GfvxJ16NOQBP10oBGcAMyGY0RJ13sEZjeJTC-CgpXA9LIycYPG47
+
+Unit Testing in Python 	•	1h 31m  - DONE
 https://www.linkedin.com/learning/unit-testing-in-python/python-unit-testing-with-pytest?u=2141490
-Practice:
+Practice: https://github.com/coding-geographies/dockerized-pytest-course
 
 Part 2:
-Advanced Python: Top Tools for Data Science and Engineering •	2h 5m 
+Advanced Python: Top Tools for Data Science and Engineering •	2h 5m  - DONE
 https://www.linkedin.com/learning/advanced-python-top-tools-for-data-science-and-engineering/the-right-tool-for-the-job?contextUrn=urn%3Ali%3AlearningCollection%3A7353484926773567491&u=2141490
-Objectives: Get an introduction to pandas, data analysis, data manipulation, Python Polars, Matplotlib, APIs, and more.
-Practice:
-
-Data Analysis with NumPy and Pandas 	•	13h 
-https://www.linkedin.com/learning/data-analysis-with-python-and-pandas/course-introduction?u=2141490
-Practice:
-
-Pandas Essential Training 	•	3h 10m 
-https://www.linkedin.com/learning/pandas-essential-training-24082178/welcome-to-pandas?u=2141490
-Objectives
-* Explain how to use Google Colab as a code editor for Python programming.
-* Demonstrate the integration of pandas with other Python libraries such as NumPy and Matplotlib.
-Practice:
-
-Data Visualization with Matplotlib and Seaborn 	•	7h 26m 
-https://www.linkedin.com/learning/data-visualization-with-matplotlib-and-seaborn/course-structure-outline?u=2141490
-Practice:
+Objectives: Get an introduction to pandas, data analysis, data manipulation, Python Polars, Matplotlib, APIs, Fake API.
+Practice: https://github.com/LinkedInLearning/advanced-python-top-tools-for-data-science-and-engineering-3933083
 
 Part 3:
 Advanced Python: Working with Databases 	•	2h 6m - DONE
@@ -87,12 +80,16 @@ Django Essential Training 	•	2h 39m
 https://www.linkedin.com/learning/django-essential-training-25094632/what-is-django?u=2141490
 Practice:
 
-Advanced Python: Practical Database Examples •	1h 48m - In-Progress
+Advanced Python: Practical Database Examples •	1h 48m
 https://www.linkedin.com/learning/advanced-python-practical-database-examples/use-databases-to-level-up-your-python-applications?contextUrn=urn%3Ali%3AlearningCollection%3A7353484926773567491&u=2141490
 Practice:
 
-Total Hours: 60h
-Practice: 15h
+Build Real-World Python Applications 	•	2h 27m 
+https://www.linkedin.com/learning/build-three-real-world-python-applications/scheduling-placeholder-movie?resume=false&u=2141490
+Practice:
+
+Total Hours: 40h
+Practice: 10h
 
 📊 2: Math & Machine Learning
 🎯 Objective: Learn core math & ML concepts.
@@ -129,6 +126,21 @@ https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-m
 Getting Started with AI and Machine Learning	•	9h 38m 
 https://www.linkedin.com/learning/paths/getting-started-with-ai-and-machine-learning
 
+Extra:
+
+Statistics Foundations 1: The Basics
+https://www.linkedin.com/learning/statistics-foundations-1-the-basics/introduction-to-data-and-charts?resume=false&u=2141490
+
+Statistics Foundations 2: Probability
+https://www.linkedin.com/learning/statistics-foundations-2-probability/the-importance-of-probabilities?u=2141490
+
+Statistics Foundations 3: Using Data Sets
+https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/sample-considerations?resume=false&u=2141490
+
+Statistics Foundations 4: Advanced Topics
+https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/explanation-of-two-population-comparisons?resume=false&u=2141490
+
+
 Total Hours: 20h
 Practice: 10h
 
@@ -140,11 +152,31 @@ Practice: 10h
 🛠 Tools:
 📚 Resources:
 
+Complete Guide to Calculus Foundations for Data Science
+https://www.linkedin.com/learning/complete-guide-to-calculus-foundations-for-data-science/introduction-to-calculus?resume=false&u=2141490
+
+Probability Foundations for Data Science
+https://www.linkedin.com/learning/probability-foundations-for-data-science/introduction-to-probability?u=2141490
+
+Complete Guide to Differential Equations Foundations for Data Science
+https://www.linkedin.com/learning/complete-guide-to-differential-equations-foundations-for-data-science/introduction-to-differential-equations?u=2141490
+
 Python for Data Science and Machine Learning Essential Training Part 1 	•	7h 44m 
 https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/data-science-life-hacks?contextUrn=urn%3Ali%3AlearningCollection%3A7354519765710745600&resume=false&u=2141490
 
 Python for Data Science and Machine Learning Essential Training Part 2 	•	5h 16m 
 https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/data-science-life-hacks?contextUrn=urn%3Ali%3AlearningCollection%3A7354519765710745600&u=2141490
+
+Data Analysis with NumPy and Pandas 	•	13h 
+https://www.linkedin.com/learning/data-analysis-with-python-and-pandas/course-introduction?u=2141490
+Practice:
+https://www.kaggle.com/learn/pandas
+
+Data Visualization with Matplotlib and Seaborn 	•	7h 26m
+https://www.linkedin.com/learning/data-visualization-with-matplotlib-and-seaborn/course-structure-outline?u=2141490
+Practice:
+https://www.kaggle.com/code/alexisbcook/hello-seaborn/
+https://www.kaggle.com/learn/data-visualization
 
 Total Hours: 13h
 Practice: 7h
