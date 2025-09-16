@@ -1,4 +1,4 @@
-🧭 Generative AI Roadmap
+# 🧭 Generative AI Roadmap
 
 Target: 12-15h Per Week  — > 5 Months
 Stared From: 1 Aug 2025
@@ -7,15 +7,15 @@ Completion: 31 Dec 2025
 🔰 1: Foundations: Python
 🎯 Objective: Build a strong Python programming base.
 ✅ Topics:
-* Python basics, Functions, OOP, Data structures & Algorithm, Databases
-Libraries: NumPy, Pandas, Polars, Matplotlib + Seaborn, Faker, Flask, Django
+* Python basics, Functions, OOP, Data structures & Algorithm, Databases, REST APIs, Unit Testing
+Libraries: NumPy, Pandas, Polars, Matplotlib + Seaborn, Faker, Flask, FastAPI
 * NumPy – fast math operations, arrays, matrix manipulations.
 * Pandas – cleaning, transforming, and analyzing tabular data.
 * Polars – faster alternative for large datasets (learn after Pandas).
 * Matplotlib + Seaborn – essential for EDA and statistical visualizations.
 * Faker – generate synthetic datasets for testing and experimentation.
 * Flask - Lightweight backend web framework.
-* Django - Full-featured backend web framework.
+* FastAPI - FastAPI is a modern Python web framework for building APIs
 🛠 Tools:
 * Jupyter Notebook
 📚 Resources:
@@ -49,47 +49,42 @@ Programming Foundations: Data Structures (2023)  •	2h 49m - DONE
 https://www.linkedin.com/learning/programming-foundations-data-structures-2023/working-with-data-structures?contextUrn=urn%3Ali%3AlearningCollection%3A7353484926773567491&resume=false&u=2141490
 Practice: https://github.com/LinkedInLearning/programming-foundations-data-structures-4410875
 
-Programming Foundations: Algorithms 	•	2h 45m  - In-Progress
+Programming Foundations: Algorithms 	•	2h 45m  - DONE
 https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/algorithms-power-the-world?resume=false&u=2141490
 Practice: https://github.com/LinkedInLearning/programming-foundations-algorithms-4507286
 
-Introducing Jupyter 	•	53m - In-Progress
+Introducing Jupyter 	•	53m - DONE
 https://www.linkedin.com/learning/introducing-jupyter/present-data-like-a-pro-with-jupyter?u=2141490
-Practice: https://www.linkedin.com/ambry/?x-li-ambry-ep=AQLie7rmppoS4QAAAZivIDPWPbFR-d-1Q32bP1xr1mAgxS9hliPl7WM1S19YNXv8Y7Ah7mvGABFtDQOMuixrQrtHkjBo5ecPSnh35CTit39AVYYNQPfRUio2iZqP8m9wGwgxwXRtUGsJdeCOS0EzGIVJHgt1oOUvhtJXF23nON0JuMr1_nVHzfc0Ufa7yeRy-BbMTM3GlmUaj9Y0woZGeszXoXQTOgIjVY8UXtBqqito-zdPPB5g0tCL4unGLVE2JN9KoP47blgUHh_6nC1E6YdprOyOhEocnGXWxCB1lGNlzEstyd5Eb8LRozzTMwJm58J2viyfbpzbP1lJZ4ECwBJOmhDRcA5oH4ljee70WEd4FT6qC71pyMFNEz8I1Eht45iRPGCfQ9ugrmE1BGNQru4RtsNNOAKYlz52qMdFwKc_FuhoZn7nLmP4r5cr_xZXbxW0ShgPOKUmeDC5R_6LTOdqBxKHSU-u8mW8GP4p5YO-VjVgimrDSZzgRtkqtcfeDy5aOtiuK9HYcMnPVOd45LclZ6UAMfEOyh99GfvxJ16NOQBP10oBGcAMyGY0RJ13sEZjeJTC-CgpXA9LIycYPG47
 
 Unit Testing in Python 	•	1h 31m  - DONE
 https://www.linkedin.com/learning/unit-testing-in-python/python-unit-testing-with-pytest?u=2141490
 Practice: https://github.com/coding-geographies/dockerized-pytest-course
 
-Part 2:
 Advanced Python: Top Tools for Data Science and Engineering •	2h 5m  - DONE
 https://www.linkedin.com/learning/advanced-python-top-tools-for-data-science-and-engineering/the-right-tool-for-the-job?contextUrn=urn%3Ali%3AlearningCollection%3A7353484926773567491&u=2141490
 Objectives: Get an introduction to pandas, data analysis, data manipulation, Python Polars, Matplotlib, APIs, Fake API.
 Practice: https://github.com/LinkedInLearning/advanced-python-top-tools-for-data-science-and-engineering-3933083
 
-Part 3:
+Part 2:
 Advanced Python: Working with Databases 	•	2h 6m - DONE
 https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/using-databases-to-level-up-your-python-applications?u=2141490
 Practice: https://github.com/LinkedInLearning/advanced-python-working-with-databases-4365479
 
-Flask Essential Training 	•	2h 2m 
+Flask Essential Training 	•	2h 2m - DONE
 https://www.linkedin.com/learning/flask-essential-training-24681038/build-a-full-stack-app-in-python-with-flask?u=2141490
-Practice:
+Practice: https://github.com/LinkedInLearning/flask-essential-training-revision-fy25q2--codespaces--3810166
 
-Django Essential Training 	•	2h 39m 
-https://www.linkedin.com/learning/django-essential-training-25094632/what-is-django?u=2141490
-Practice:
-
-Advanced Python: Practical Database Examples •	1h 48m
+Advanced Python: Practical Database Examples •	1h 48m  - DONE
 https://www.linkedin.com/learning/advanced-python-practical-database-examples/use-databases-to-level-up-your-python-applications?contextUrn=urn%3Ali%3AlearningCollection%3A7353484926773567491&u=2141490
 Practice:
 
-Build Real-World Python Applications 	•	2h 27m 
-https://www.linkedin.com/learning/build-three-real-world-python-applications/scheduling-placeholder-movie?resume=false&u=2141490
-Practice:
+Build REST APIs with FastAPI 	•	1h 11m  - DONE
+https://www.linkedin.com/learning/build-rest-apis-with-fastapi/what-is-fastapi?contextUrn=urn%3Ali%3AlearningCollection%3A7353488226096992256&u=2141490
+Practice: https://github.com/LinkedInLearning/build-rest-apis-with-fastapi-5964177
+
 
 Total Hours: 40h
-Practice: 10h
+Practice: 20h
 
 📊 2: Math & Machine Learning
 🎯 Objective: Learn core math & ML concepts.
@@ -97,7 +92,7 @@ Practice: 10h
 * Linear algebra (Vectors, matrices, dot product, transpose, eigenvalues)
 * Probability & Statistics: Mean, variance, distributions, Bayes' theorem, hypothesis testing
 * Calculus: Derivatives, chain rule, partial derivatives
-* Intro to Machine Learning: Regression, classification, model evaluation
+* Intro to Machine Learning: Regression, classification, model evaluation, supervised, unsupervised, overfitting, etc.  
 🛠 Tools:
 * Scikit-learn
 📚 Resources:
@@ -184,9 +179,10 @@ Practice: 7h
 🧠 4: Deep Learning Essentials
 🎯 Objective: Understand neural networks, training and build models.
 ✅ Topics:
-* Neural networks, activation functions, back propagation
-* CNNs, RNNs, LSTMs
+* Dive into neural networks — understand forward/backward pass, activation functions, optimizers. Neural networks, activation functions, back propagation
+* Learn CNNs (for images) and RNNs/LSTMs (for sequences). 
 * Overfitting, dropout, learning rate scheduling
+* Use GPU on Google Colab for training models.
 🛠 Tools:
 * PyTorch & TensorFlow
 📚 Resources:
@@ -209,29 +205,8 @@ https://www.linkedin.com/learning/building-deep-learning-applications-with-keras
 Total Hours: 10h
 Practice: 5h
 
-🌐 5: APIs and HTTP Basics
-🎯 Objective: Learn to integrate with OpenAI/HF APIs.
-✅ Topics:
-* REST APIs, headers, authentication
-* OpenAI API, Hugging Face API, LangChain
-📚 Resources:
 
-Learning REST APIs 	•	1h 6m 
-https://www.linkedin.com/learning/learning-rest-apis/welcome?contextUrn=urn%3Ali%3AlearningCollection%3A7353488226096992256&u=2141490
-
-Build REST APIs with FastAPI 	•	1h 11m 
-https://www.linkedin.com/learning/build-rest-apis-with-fastapi/what-is-fastapi?contextUrn=urn%3Ali%3AlearningCollection%3A7353488226096992256&u=2141490
-
-Hands-On OpenAI API: Building a Real-World Solution 	•	59m 
-https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/building-a-real-world-ai-app?contextUrn=urn%3Ali%3AlearningCollection%3A7353488226096992256&u=2141490
-
-A Hands-On Introduction to Hugging Face for Developers 	•	44m 
-https://www.linkedin.com/learning/a-hands-on-introduction-to-hugging-face-for-developers/intro-video-to-be-renamed?contextUrn=urn%3Ali%3AlearningCollection%3A7353488226096992256&u=2141490
-
-Total Hours: 4h
-Practice: 1h
-
-🤖 6. Natural Language Processing (NLP)
+🤖 5. Natural Language Processing (NLP)
 🎯 Objective:Since LLMs, tokenization, transformers, and embeddings are heavily used.
 ✅ Topics:
 * Tokenization, embeddings
@@ -253,17 +228,24 @@ https://www.linkedin.com/learning/tensorflow-working-with-nlp/why-tensorflow?con
 Total Hours: 15h
 Practice: 5h
 
-🤖 7: Large Language Models (LLMs)
+🤖 6: Large Language Models (LLMs)
 🎯 Objective: Work with and fine-tune LLMs.
 ✅ Topics:
 * Pretrained LLMs: GPT-2, GPT-3.5, Falcon, Mistral
 * Prompt Engineering (zero-shot, few-shot)
 * Fine-tuning vs. Retrieval-Augmented Generation (RAG)
 * OpenAI API basics (chat completion)
+* Hugging Face 
 🛠 Tools:
 * OpenAI Playground
 * Hugging Face transformers, datasets, inference
 📚 Resources:
+
+Hands-On OpenAI API: Building a Real-World Solution 	•	59m 
+https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/building-a-real-world-ai-app?contextUrn=urn%3Ali%3AlearningCollection%3A7353488226096992256&u=2141490
+
+A Hands-On Introduction to Hugging Face for Developers 	•	44m 
+https://www.linkedin.com/learning/a-hands-on-introduction-to-hugging-face-for-developers/intro-video-to-be-renamed?contextUrn=urn%3Ali%3AlearningCollection%3A7353488226096992256&u=2141490
 
 Introduction to Large Language Models 	•	1h 17m 
 https://www.linkedin.com/learning/introduction-to-large-language-models/the-impact-and-functionality-of-large-language-models?contextUrn=urn%3Ali%3AlearningCollection%3A7353488446193102848&u=2141490
@@ -277,7 +259,7 @@ https://www.linkedin.com/learning/level-up-llm-applications-development-with-lan
 Total Hours: 7h
 Practice: 3h
 
-🎨 8: Computer Vision & GenAI
+🎨 7: Computer Vision & GenAI
 🎯 Objective: Explore image-based GenAI (GANs, YOLO, diffusion).
 ✅ Topics:
 * GANs (DCGAN, CycleGAN)
@@ -300,7 +282,7 @@ https://www.linkedin.com/learning/build-gans-and-diffusion-models-with-tensorflo
 Total Hours: 8h
 Practice: 2h
 
-🧰 9: Build & Deploy GenAI Applications
+🧰 8: Build & Deploy GenAI Applications
 🎯 Objective: Combine GenAI, LangChain & Azure to build apps.
 ✅ Topics:
 * Streamlit or Gradio for GenAI app UI
@@ -315,7 +297,7 @@ Practice: 2h
 * ChatGPT clone for a domain (e.g., CRM assistant, DevOps documentation bot)
 📚 Resources:
 
-📦 10: Product-ionization & DevOps for GenAI
+📦 9: Product-ionization & DevOps for GenAI
 🎯 Objective: Apply DevOps & MLOps practices to GenAI workflows.
 ✅ Topics:
 * Model versioning (MLflow)
@@ -325,3 +307,19 @@ Practice: 2h
 🧠 Bonus:
 * Use PromptLayer or LangSmith to log prompt performance
 📚 Resources:
+
+Microsoft Azure AI Fundamentals (AI-900) Cert Prep by Microsoft Press
+https://www.linkedin.com/learning/microsoft-azure-ai-fundamentals-ai-900-cert-prep-by-microsoft-press/introduction?u=2141490
+
+
+Microsoft Azure AI Engineer Associate (AI-102) Cert Prep by Microsoft Press
+https://www.linkedin.com/learning/microsoft-azure-ai-engineer-associate-ai-102-cert-prep-by-microsoft-press/exam-ai-102-designing-and-implementing-a-microsoft-azure-ai-solution-introduction?u=2141490
+
+Complete Guide to Azure AI for ML Engineers by Microsoft Press
+https://www.linkedin.com/learning/complete-guide-to-azure-ai-for-ml-engineers-by-microsoft-press/complete-guide-to-azure-ai-for-ml-engineers-introduction?u=2141490
+
+
+Microsoft Azure Machine Learning Fundamentals
+https://www.linkedin.com/learning/microsoft-azure-machine-learning-fundamentals/microsoft-azure-machine-learning-fundamentals-introduction?u=2141490
+
+
